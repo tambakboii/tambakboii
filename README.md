@@ -1,10 +1,42 @@
-<h1 align="center">Hallo 👋, I'm Athiyan Aqil Muhammad</h1>
-<h3 align="center">A passionate frontend developer from Malang</h3>
+# Hi there, I'm tambakboii! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@athiyan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@athiyan._" height="30" width="40" /></a>
-</p>
+### About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning and improving my skills in web development and data science.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 💬 Ask me about anything related to Python, JavaScript, and machine learning.
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- ⚡ Fun fact: I love hiking and exploring new places.
+
+### Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React, Node.js, Django, Flask
+- **Tools:** Git, Docker, PostgreSQL, MongoDB
+- **Other:** Machine Learning, Data Analysis, RESTful APIs
+
+### GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tambakboii&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambakboii&layout=compact&theme=radical)
+
+### Projects
+
+Here are some of my notable projects:
+
+- [Project 1](https://github.com/tambakboii/project1) - A brief description of Project 1.
+- [Project 2](https://github.com/tambakboii/project2) - A brief description of Project 2.
+- [Project 3](https://github.com/tambakboii/project3) - A brief description of Project 3.
+
+Feel free to check out my repositories and contribute to any projects that interest you!
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Personal Website](https://yourwebsite.com)
+
+Thanks for visiting my profile, and have a great day! 😄
