@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning and improving my skills in web development and data science.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about anything related to Python, JavaScript, and machine learning.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: I love hiking and exploring new places.
+- 📫 How to reach me: [athiyanaqil004@gmail.com](athiyanaqil004@gmail.com)
+- ⚡ Fun fact: I love touring and exploring new places.
 
 ### Skills
 
@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tambakboii&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tambakboii&show_icons=true&theme=radical)
 
 ### Top Languages
 
