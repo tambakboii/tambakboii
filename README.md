@@ -1,4 +1,4 @@
-# Hi there, I'm tambakboii! 👋
+# Hi there, I'm Athiyan Aqil Muhammad! 👋
 
 ### About Me
 
@@ -11,7 +11,7 @@
 ### Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Django, Flask
+- **Frameworks/Libraries:** Laravel, Fillament, Flutter, React, Node.js, Django, Flask
 - **Tools:** Git, Docker, PostgreSQL, MongoDB
 - **Other:** Machine Learning, Data Analysis, RESTful APIs
 
@@ -27,16 +27,12 @@
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/tambakboii/project1) - A brief description of Project 1.
-- [Project 2](https://github.com/tambakboii/project2) - A brief description of Project 2.
-- [Project 3](https://github.com/tambakboii/project3) - A brief description of Project 3.
+- [Project 1](https://github.com/SafeDriveApp/SafeDrive.git) - aplikasi oendeteksi kantuk untuk pengendara mobil.
 
 Feel free to check out my repositories and contribute to any projects that interest you!
 
 ### Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/athiyan-aqil-muhammad-658192331/)
 
 Thanks for visiting my profile, and have a great day! 😄
