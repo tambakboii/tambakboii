@@ -25,9 +25,8 @@
 
 ### Projects
 
-Here are some of my notable projects:
 
-- [Project 1](https://github.com/SafeDriveApp/SafeDrive.git) - aplikasi oendeteksi kantuk untuk pengendara mobil.
+- [Project 1](https://github.com/SafeDriveApp/SafeDrive.git) - aplikasi pendeteksi kantuk untuk pengendara mobil.
 
 Feel free to check out my repositories and contribute to any projects that interest you!
 
