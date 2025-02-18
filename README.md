@@ -1,4 +1,4 @@
-# Hi there, I'm Athiyan Aqil Muhammad! 👋
+# Hi coders, I'm Athiyan Aqil Muhammad! 👋
 
 ### About Me
 
